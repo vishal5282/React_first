@@ -60,8 +60,10 @@ class Avatar extends Component
      <div className="mainpage">
          <h1> {this.state.name} </h1>
           {arrayavtarcard}
-           <button onClick={ () => this.namechange() }> Subcribe </button>
-         </div>
+          <div className="button">
+             <button onClick={ () => this.namechange() }> Subcribe </button>
+          </div>
+     </div>
       )
     }
 }

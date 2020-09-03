@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Gugi");
 .mainpage{ width: 90%; height: 100vh; margin: auto; font-family: 'Gugi', cursive; text-align: center;}
 
+.button{text-align: center;}
+
 .mainpage h1 { margin: 0; padding: 20px 0; text-align: center;}
 
 
